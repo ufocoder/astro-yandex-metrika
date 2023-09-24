@@ -1,0 +1,1 @@
+export { default as YandexMetrika } from "./src/Index.astro";

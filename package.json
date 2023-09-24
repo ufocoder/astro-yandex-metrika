@@ -1,0 +1,27 @@
+{
+  "name": "astro-yandex-metrika",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "description": "Yandex Metrika component for Astro",
+  "type": "module",
+  "keywords": [
+    "astro",
+    "astro-component",
+    "astro-integration",
+    "analytics",
+    "yandex",
+    "tracking"
+  ],
+  "homepage": "https://github.com/ufocoder/astro-yandex-metrika",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ufocoder/astro-yandex-metrika.git"
+  },
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "files": [
+    "src",
+    "index.ts"
+  ]
+}

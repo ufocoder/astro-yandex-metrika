@@ -1,0 +1,13 @@
+---
+import Analytics from "./Analytics.astro";
+
+export interface Props {
+    id: string;
+}
+
+const { id } = Astro.props;
+
+const isProd = import.meta.env.PROD;
+
+---
+{isProd ? <Analytics id={id} /> : null}
