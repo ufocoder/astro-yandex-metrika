@@ -1,6 +1,6 @@
 {
   "name": "astro-yandex-metrika",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "CC-BY-4.0",
   "description": "Yandex Metrika component for Astro",
   "type": "module",
